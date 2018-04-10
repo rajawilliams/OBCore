@@ -1,0 +1,15 @@
+[
+{
+  "modid": "industryexpansion",
+  "name": "Industry Expansion",
+  "description": "Adds multiple machines powered by redstone power.",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "updateUrl": "",
+  "authorList": ["OBCLetter"],
+  "credits": "",
+  "logoFile": "assets/industryexpansion/textures/logos/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
