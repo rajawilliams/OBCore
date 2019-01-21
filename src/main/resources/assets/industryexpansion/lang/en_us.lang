@@ -1,0 +1,8 @@
+tile.hardened_redstone_ore.name=Hardened Redstone Ore
+tile.freezer.name=Freezer
+tile.freezer.minimum=Minimum power input to work : 7
+tile.red_meter.name=Red Meter
+
+item.machine_casing.name=Machine Casing
+item.redstone_core.name=Redstone Core
+item.raw_hardened_redstone.name=Raw Hardened Redstone

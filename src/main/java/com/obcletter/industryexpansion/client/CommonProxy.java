@@ -1,12 +1,17 @@
 package com.obcletter.industryexpansion.client;
 
-import com.obcletter.industryexpansion.item.ItemBase;
+import net.minecraft.item.Item;
+import net.minecraftforge.fml.common.Mod;
 
+@Mod.EventBusSubscriber
 public class CommonProxy {
 
 	public void init() {
 	}
-	
-	public void registerItemRenderer(ItemBase item, int metadata, String name) {
+
+	public void registerItemRenderer(Item item, int metadata, String name) {
+	}
+
+	public void registerEntityRenders() {
 	}
 }

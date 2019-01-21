@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "industryexpansion:items/raw_hardened_redstone"
+  }
+}
